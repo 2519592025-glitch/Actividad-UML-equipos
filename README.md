@@ -25,8 +25,8 @@
 
 ## Casos de la práctica
 
-| Caso | Alcance | Archivos de Fernando |
+| Caso | Alcance | Archivos de Equipo |
 |---|---|---|
-| 1. HealthFlow | Gestión hospitalaria integral | `docs/caso1-healthflow.md`, `models/caso1-healthflow.mdj` y `models/caso1-healthflow.png` |
-| 2. GlobalMarket | E-Commerce omnicanal | A cargo de otro integrante |
-| 3. UniCore | Gestión académica y campus universitario | A cargo de otro integrante |
+| 1. HealthFlow | Gestión hospitalaria integral | Fernando |
+| 2. GlobalMarket | E-Commerce omnicanal | Anderson |
+| 3. UniCore | Gestión académica y campus universitario | Anthony |
